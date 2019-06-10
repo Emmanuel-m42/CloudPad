@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "942793399894",
+    "firebase_url": "https://cloudpad-36cbc.firebaseio.com",
+    "project_id": "cloudpad-36cbc",
+    "storage_bucket": "cloudpad-36cbc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942793399894:android:aabc4d99fa250c78",
+        "android_client_info": {
+          "package_name": "com.emmanuelmammah.cloudpad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942793399894-h61bcan94n84rhguk61dt9al3hi88ht6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.emmanuelmammah.cloudpad",
+            "certificate_hash": "4405fd8b3c40e01b9798cf5026ec2eaf7853cc3b"
+          }
+        },
+        {
+          "client_id": "942793399894-183ka32g0669sfl3ar87g3rn2hd236kf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAITAUBwGoLOqcBG8dygG1KdR3Vl4gRLk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942793399894-183ka32g0669sfl3ar87g3rn2hd236kf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
